@@ -8,7 +8,7 @@ TXN_0000006,Smoothie,5,5,25,Credit Card,In-store,2023-08-03
 TXN_0000007,Sandwich,1,5,5,Credit Card,Takeaway,2023-08-03
 TXN_0000008,Juice,3,4,12,Cash,In-store,2023-08-03
 TXN_0000009,Coffee,3,4,12,Credit Card,In-store,2023-08-03
-TXN_0000010,Cookie,4,4,16,Cash,Takeaway,2023-08-03
+TXN_0000010,Tea,4,4,16,Cash,Takeaway,2023-08-03
 TXN_1961373,Coffee,2,2.0,4.0,Credit Card,Takeaway,2023-09-08
 TXN_4977031,Cake,4,3.0,12.0,Cash,In-store,2023-05-16
 TXN_4271903,Cookie,4,1.0,ERROR,Credit Card,In-store,2023-07-19
